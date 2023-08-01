@@ -1,0 +1,127 @@
+body {
+    background-color: #fff0f5;
+}
+
+h1 {
+    font-family: "Baby doll", fantasy;
+    color: white;
+}
+
+h2 {
+    font-family: "Baby doll", fantasy;
+    color: darkorchid;
+    font-size:xx-large;
+}
+
+p, ul {
+    font-family: "Comfortaa", san-serif, fantasy;
+}
+
+#cabecera {
+    background: darkorchid;
+    height: 150px;
+    padding: 30px;
+}
+
+#boton {
+    background-color: lavender;
+    color: darkorchid;
+    border-radius: 10px;
+    width: 100px;
+    height: 25px;
+    text-decoration: none;
+    font-family: "Baby doll", fantasy;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+}
+
+.foto {
+    display: block;
+    margin: auto;
+    height: 100px;
+    border-radius: 15px;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 0;
+}
+
+.subtitulo {
+    color: lavender;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bolder;
+    font-style: italic;
+    line-height: 0;
+}
+
+#cuerpo {
+    display: flex;
+    background-color: lavender;
+    width: fit-content;
+    padding: 30px;
+}
+
+#cuerpo p {
+    text-align: justify;
+    position: left;
+    width: 90%;
+    word-spacing: 10 px;
+    letter-spacing: 10 px;
+    padding: 20px;
+}
+
+.foto {
+    float: right;
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    margin-right: 120px;
+    margin-left: 28px;
+   outline-width: 10px;
+   outline-style: dashed;
+   outline-color: darkorchid;
+}
+
+#informacion {
+    width: 50px;
+    padding: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.uno {
+    background-color: darkorchid;
+    color: white;
+    width: 500px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+.dos {
+    background-color: lavender;
+    width: 500px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+#contacto {
+    background-color: darkorchid;
+    width: auto;
+    color: white;
+    text-align: center;
+}
+
+#formulario {
+    background-color: lavender;
+    padding: 30px;
+}
+
